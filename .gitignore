@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+data/
+*.pyc
+.streamlit/
+.claude/
+.vscode/
+.idea/
+tests/tmp*/
+tests/.test_watch.db*
